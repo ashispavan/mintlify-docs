@@ -33,6 +33,12 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "Tools",
+            "pages": [
+              "tools/ui-ux-tools"
+            ]
           }
         ]
       }
